@@ -1,17 +1,140 @@
-# 💫 About Me:
-🔭 I’m currently working on dsa and aiml<br>👯 I’m looking to collaborate on full scale aiml projects and development <br>🤝 I’m looking for help with networking and connecting to people who can help me for the same.
+<h1 align="center">Hi 👋, I'm Saurav Raj</h1>
 
+<h3 align="center">
+Full Stack Developer • AI/ML Enthusiast • DSA Learner
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_i_saw._rav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-raj-anand-199032274/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sauravraj123498@gmail.com) 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;MERN+Stack+Developer;Always+Learning+Something+New;100%2B+Days+of+LeetCode" />
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sauravraj13&show_icons=true&theme=dark&hide_border=true&count_private=true)
+---
 
-![](https://streak-stats.demolab.com?user=sauravraj13&theme=dark&hide_border=true)
+## 👨‍💻 About Me
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravraj13&layout=compact&theme=dark&hide_border=true)
+- 🎓 BE CSE Student
+- 💻 Passionate about Full Stack Development and AI
+- 📚 Solving Data Structures & Algorithms daily
+- 🚀 Currently building AI-powered applications
+- 🌱 Learning System Design and Cloud
+- 🤝 Looking for Software Engineering Internship opportunities
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Code Reviewer
+
+AI-powered code reviewer built using MERN Stack and Gemini/OpenRouter.
+
+### 🍔 Zomato Food Reels
+
+A modern food discovery platform inspired by Instagram Reels.
+
+### 📚 Library Management System
+
+Desktop application built using .NET and MySQL.
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,html,css" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sauravraj13&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravraj13&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sauravraj13&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravraj13&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 💻 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/saurav2731/">
+
+<img src="https://leetcard.jacoblin.cool/saurav2731?theme=dark&font=Poppins&ext=contest"/>
+
+</a>
+
+</p>
+
+---
+
+## 🏆 Achievement
+
+<p align="center">
+
+<img src="https://assets.leetcode.com/static_assets/others/100_1080_1080.png" width="220"/>
+
+</p>
+
+<p align="center">
+<b>100 Days LeetCode Badge</b>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/saurav-raj-anand-199032274/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/saurav2731/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sauravraj13&label=Profile+Views&color=blue&style=flat"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
